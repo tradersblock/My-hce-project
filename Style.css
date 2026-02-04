@@ -1,0 +1,161 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: -2px;
+  font-size: 62px;
+  color: #212529;
+}
+h2{
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: -2px;
+  font-size: 48px;
+  color: #212529;
+}
+h3{
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.2;
+  letter-spacing: -2px;
+  font-size: 40px;
+  color: #212529;
+}
+p {
+  font-weight: 400;
+  line-height: 1.5;
+  font-size: 20px;
+  color: #495057;
+  margin-bottom: 50px;
+}
+a {
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration: none;
+  font-size: 16px;
+  color: #495057;
+  display: inline-block;
+}
+.span {
+  display: inline-block;
+}
+ul {
+  list-style: none;
+}
+ol {
+  list-style: cicle;
+}
+.navbar {
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+.hero-heading {
+  margin-bottom: 20px;
+}
+.join {
+  margin-bottom: 20;
+}
+.btn-primary:link,.btn-primary:visited {
+  background-color: #339af0;
+  color: #ffffff;
+  padding: 15px 20px;
+  border-radius: 8px;
+}
+.btn-primary:hover,.btn-primary:active {
+  background-color: orange;
+  color: black;
+}
+.btn-secondary:link,.btn-secondary:visited {
+  background-color: #7048e8;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow:  5px 5px 5px #7048e8;
+}
+.btn-secondary:hover,.btn-secondary:active {
+  background-color: #7048e8;
+  color: #ffffff;
+}
+.nav {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.starter {
+  text-align: center;
+  background-color:  #339af0;
+  padding: 50px 20px 30px;
+  border-radius: 20px;
+  margin-top: 50px;
+  box-shadow: 5px 5px 20px #339af0;
+}
+.footer {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.highlight {
+  color: white;
+  background-color:  #339af0;
+  padding: 5px 10px;
+  border-radius: 10px;
+}
+.highlight-primary {
+  color: white;
+  background-color: orange;
+  border-radius: 8px;
+}
+.btn-secondary-outline:link,.btn-secondary-outline:visited {
+  background-color: white;
+  color: black;
+  border: 2px solid #339af0;
+  padding: 15px 20px;
+  border-radius: 8px;
+}
+.letter {
+  color:  #339af0;
+}
+.lettre {
+  color: #7048e8;
+}
+.hero-heading {
+  margin-bottom: 50px;
+}
+.container {
+  margin: 10px;
+  padding: 
+  
+}
+.flex {
+  display: flex;
+  gap: 1.5rem;
+}
+.class {
+  display: flex;
+  gap: 1rem;
+}
+.book {
+  color: #339af0;
+}
+.ordi {
+  color: #339;
+  list-style: square;
+}
+button {
+  border: 2px solid #339af0;
+  padding: 10px;
+  color: white;
+  background-color: #339af0;
+  border-radius: 10px;
+}
+.edu {
+  color: #339af0;
+}
+  
+
